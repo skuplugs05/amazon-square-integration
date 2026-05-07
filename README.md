@@ -1,2 +1,2 @@
-# amazon-square-integration
-Connect Square POS with Amazon using SKUPlugs for real-time inventory, product, and order synchronization.
+# Amazon Square Integration
+[**Square Amazon Integration**](https://skuplugs.com/square-amazon-integration/) via SKUPlugs helps businesses automate inventory, product, and order synchronization between Square POS and Amazon. The integration reduces manual work, prevents stock mismatches, and improves operational efficiency with real-time updates. SKUPlugs provides an easy-to-use cloud-based solution that helps retailers manage online and offline sales from a centralized system. Businesses can improve customer experience, streamline workflows, and grow sales efficiently by connecting Square with Amazon through SKUPlugs automation.
